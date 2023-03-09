@@ -1,4 +1,4 @@
-﻿DIA;Mes;Año;Hora;N_Hora;PM10 µg/m3;CO ppm;SO2 ppb;Vel Viento m/s;Dir Viento Grados;Precipitacion mm;NO ppb;NO2 ppb;NOX ppb;HR %;OZONO ppb;PM2.5 µg/m3;Temperatura °C;HUM %;Rad Solar W/M²;Presion Baro mmHg
+DIA;Mes;Año;Hora;N_Hora;PM10 µg/m3;CO ppm;SO2 ppb;Vel Viento m/s;Dir Viento Grados;Precipitacion mm;NO ppb;NO2 ppb;NOX ppb;HR %;OZONO ppb;PM2.5 µg/m3;Temperatura °C;HUM %;Rad Solar W/M²;Presion Baro mmHg
 1;1;2022;1:00;1;44;0,54712;2,566;0,4;146;0;0,592;5,609;6,199;66,46;16,364;28;12,7;70;0;563
 1;1;2022;2:00;2;90;0,72362;2,772;0,1;342;0;2,736;9,875;12,608;69,19;10,271;70;12,6;73;0;562
 1;1;2022;3:00;3;88;0,76035;2,78;0,3;308;0;8,327;16,548;24,874;70,97;2,494;59;13,1;75;0;562
